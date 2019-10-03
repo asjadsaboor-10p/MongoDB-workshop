@@ -1,0 +1,2 @@
+# MongoDB-exercises
+MongoDB exercises
