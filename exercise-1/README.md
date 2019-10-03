@@ -1,7 +1,7 @@
 ### Exercise 1
 
 1. Start mongo daemon with a non default port for e.g`27018` and non default data folder for e.g `c:\data\db`
-2. Connect mongo shell to above started deamon
+2. Connect mongo shell to above daemon
 3. Create a new database and name it `shelter`
 4. Create a new capped collection named `animals` with document size limit of 6 documents. The collection must have following fields
      ```
