@@ -11,4 +11,5 @@
 - [Lesson 1](/lesson-1)
 - [Lesson 2](/lesson-2)
 - [Exercise 1](/exercise-1)
+- [Exercise 2](/exercise-2)
    
