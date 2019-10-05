@@ -1,4 +1,4 @@
-### Exercise 3 - Schema validation
+## Exercise 3 - Schema validation
 
 Use blog scheme from previous exercise and create its validation rule
 

@@ -1,4 +1,4 @@
-### Exercise 1 - Mongo shell handson
+## Exercise 1 - Mongo shell handson
 
 1. Start mongo daemon with a non default port for e.g`27018` and non default data folder for e.g `c:\data\db`
 2. Connect mongo shell to above daemon

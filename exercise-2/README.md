@@ -1,4 +1,4 @@
-### Exercise 2 - Schema designing
+## Exercise 2 - Schema designing
 
 We need to build blog, where users can 
 
