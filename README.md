@@ -8,9 +8,9 @@
 
 
 ### Lessons & Exercises
-- [Lesson 1](/lesson-1)
-- [Lesson 2](/lesson-2)
-- [Exercise 1](/exercise-1)
-- [Exercise 2](/exercise-2)
-- [Exercise 3](/exercise-3)
-- [Exercise 4](/exercise-4)
+- [Lesson 1 - Mongo Shell basics](/lesson-1)
+- [Lesson 2 - CRUD basics](/lesson-2)
+- [Exercise 1 - Mongo Shell](/exercise-1)
+- [Exercise 2 - Schema Designing](/exercise-2)
+- [Exercise 3 - Schema Validation](/exercise-3)
+- [Exercise 4 - Find operations deep dive](/exercise-4)
