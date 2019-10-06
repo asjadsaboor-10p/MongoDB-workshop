@@ -1,0 +1,64 @@
+[
+    {
+       "country": "Spain",
+       "city": "Salamanca",
+       "name": "USAL",
+       "location": {
+          "type": "Point",
+          "coordinates": [
+             -5.672251,
+             17,
+             40.96078
+          ]
+       },
+       "students": [
+          {
+             "year": 2014,
+             "number": 24774
+          },
+          {
+             "year": 2015,
+             "number": 23166
+          },
+          {
+             "year": 2016,
+             "number": 21913
+          },
+          {
+             "year": 2017,
+             "number": 21715
+          }
+       ]
+    },
+    {
+       "country": "Spain",
+       "city": "Salamanca",
+       "name": "UPSA",
+       "location": {
+          "type": "Point",
+          "coordinates": [
+             -5.669119,
+             17,
+             40.963173
+          ]
+       },
+       "students": [
+          {
+             "year": 2014,
+             "number": 4788
+          },
+          {
+             "year": 2015,
+             "number": 4821
+          },
+          {
+             "year": 2016,
+             "number": 6550
+          },
+          {
+             "year": 2017,
+             "number": 6125
+          }
+       ]
+    }
+ ]
