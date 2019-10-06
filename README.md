@@ -18,3 +18,4 @@
 - [Exercise 4 - Find operations deep dive part 2](/exercise-5)
 - [Exercise 6 - Update/ Delete deep dive](/exercise-6)
 - [Exercise 7 - Aggregation](/exercise-7)
+- [Exercise 8 - Geospatial queries](/exercise-8)
