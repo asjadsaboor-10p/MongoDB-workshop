@@ -14,5 +14,6 @@
 - [Exercise 2 - Schema Designing](/exercise-2)
 - [Exercise 3 - Schema Validation](/exercise-3)
 - [Exercise 4 - Find operations deep dive](/exercise-4)
-- [Exercise 5 - Update/ Delete deep dive](/exercise-5)
-- [Exercise 6 - Aggregation](/exercise-6)
+- [Exercise 4 - Find operations deep dive part 2](/exercise-5)
+- [Exercise 6 - Update/ Delete deep dive](/exercise-6)
+- [Exercise 7 - Aggregation](/exercise-7)

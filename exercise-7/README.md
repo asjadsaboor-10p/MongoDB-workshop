@@ -1,4 +1,4 @@
-## Exercise 6 - Aggregation
+## Exercise 7 - Aggregation
 
 In this exercise will will first practise aggregation stages on `universities` data , then we will move to a `restraunts` data set and create aggregation pipeline.
 
