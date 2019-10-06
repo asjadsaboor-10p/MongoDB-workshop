@@ -10,6 +10,7 @@
 ### Lessons & Exercises
 - [Lesson 1 - Mongo Shell basics](/lesson-1)
 - [Lesson 2 - CRUD basics](/lesson-2)
+- [Lesson 3 - Aggregation basics](/lesson-3)
 - [Exercise 1 - Mongo Shell](/exercise-1)
 - [Exercise 2 - Schema Designing](/exercise-2)
 - [Exercise 3 - Schema Validation](/exercise-3)
