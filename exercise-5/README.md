@@ -1,5 +1,4 @@
-### Exercise 5 - Find Operation Deep Dive continue
-
+## Exercise 5 - Find operations deep dive - Part 2
 
 ### Import collection
 
@@ -27,4 +26,3 @@ Options
 6.  Write a query to find the restaurant Id, name, borough and cuisine for those restaurants which belong to the borough Staten Island or Queens or Bronxor Brooklyn.
 7.  Write a query to find the restaurant Id, name, borough and cuisine for those restaurants which achieved a score which is not more than 10.
 8.  Write a MongoDB query to know whether all the addresses contains the street or not.
-
