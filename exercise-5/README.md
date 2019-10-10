@@ -2,10 +2,10 @@
 
 ### Import collection
 
-First import [tv-shows](/data-sets) json.
+First import [restraunts](/data-sets) json.
 
 ```
-c:\> mongoimport tv-shows.json -d movieData - c movies --jsonArray --drop 
+c:\> mongoimport restraunts.json -d restrauntData - c restraunts --jsonArray --drop 
 ```
 
 `mongoimport` tool imports content from an Extended JSON, CSV, or TSV export created by mongoexport, or potentially, another third-party export tool.
