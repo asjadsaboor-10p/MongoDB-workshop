@@ -1,4 +1,4 @@
-## Exercise 7 - Aggregation 
+## Lession 3 - Aggregation 
 
 In this lesson will will first practise aggregation pipeline and mapReduce.
 
@@ -8,7 +8,7 @@ In this lesson will will first practise aggregation pipeline and mapReduce.
 Import the `universities.json` from data-sets folder.
 
 
-1. write an aggregation query to match universities who are in Salmanaca, Spain.
+1. Write an aggregation query to match universities who are in Salmanaca, Spain.
 
 ```
 db.universities.aggregate([
@@ -17,7 +17,7 @@ db.universities.aggregate([
 
 ```
 
-2. write an aggregation query to return only `country`, `city`, `name`.
+2. Write an aggregation query to return only `country`, `city`, `name`.
 
 ```
 db.universities.aggregate([
@@ -26,7 +26,7 @@ db.universities.aggregate([
 
 ```
 
-3. write  an aggregation query to unwind students from universities collection
+3. Write  an aggregation query to unwind students from universities collection
 
 ```
 db.universities.aggregate([
@@ -48,7 +48,7 @@ db.universities.aggregate([
 
 ```
 
-5. Write an aggregatoin query to get the total number of students that have ever belonged to each one of the universities in descending order?
+5. Write an aggregation query to get the total number of students that have ever belonged to each one of the universities in descending order?
 
 ```
 db.universities.aggregate([
@@ -82,14 +82,14 @@ db.universities.aggregate([
 
 ```
 
-2. create map function.
+2. create map function in mongo shell
 
 ```
 var map = function() {emit(this.name,this.marks);};
 
 ```
 
-3. create Reduce function.
+3. create Reduce function in mongo shell
 
 
 ```
