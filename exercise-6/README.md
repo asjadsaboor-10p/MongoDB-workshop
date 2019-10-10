@@ -1,4 +1,4 @@
-### Exercise 6 - Find Operation Deep Dive continue
+### Exercise 6 - Update / Delete Operation Deep Dive continue
 
 
 ### Import collection
