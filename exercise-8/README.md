@@ -18,6 +18,8 @@ In this exercise we will first insert some  geo points in a collection , and the
     - Chop Chop wok [24.8661546, 67.0773592]
     - Al-Tijarah Centre [67.0749619, 24.8642376]
     - Json Trade center [67.0687145, 24.8622828]
+    - Dolmen Mall Clifton [67.0276359,24.8024212]
+    - Centerpoint tower [67.078582, 24.8323397]
 
 2. Create an index on location field
 
