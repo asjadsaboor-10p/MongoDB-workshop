@@ -2,6 +2,7 @@
 
 ### Import collection
 
+Download companies.json from [here](https://github.com/asjadsaboor/mongodb-json-files/blob/master/datasets/companies.json)
 First import [companies](/data-sets) json.
 
 ```
