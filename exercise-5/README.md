@@ -5,7 +5,8 @@
 First import [restraunts](/data-sets) json.
 
 ```
-c:\> mongoimport restraunts.json -d restrauntData - c restraunts --jsonArray --drop 
+c:\> use restrauntdata
+c:\> mongoimport restraunts.json - c restraunts
 ```
 
 `mongoimport` tool imports content from an Extended JSON, CSV, or TSV export created by mongoexport, or potentially, another third-party export tool.
