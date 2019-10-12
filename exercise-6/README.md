@@ -21,11 +21,12 @@ Options
 
 1. Write a query to update age of users whose age is null.
 2. Write a query to increment age of all users by 1.
-3. Write a query to add new field `weight` and set some value.
-4. Write a query to rename `weight` field to `totalWeight`.
-5. Write a query to remote `weight` key from all records.
-6. Write a query to upsert new user with your name.
-7. Write a query to insert hobby in your user record.
-8. Write a query to remove first hobby from all user records.
-9. Write a query to delete your user records.
-10. Write a query to delete entire users collection.
+3. Write a query to add a new field `highFrequency` and set its value to true if a user has frequency greater than 2.
+4. Write a query to add new field `weight` and set some value.
+5. Write a query to rename `weight` field to `totalWeight`.
+6. Write a query to remote `weight` key from all records.
+7. Write a query to upsert new user with your name.
+8. Write a query to insert hobby in your user record.
+9. Write a query to remove first hobby from all user records.
+10. Write a query to delete your user records.
+11. Write a query to delete entire users collection.
