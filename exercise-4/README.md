@@ -30,3 +30,4 @@ Now the data has been imported, lets practise some find queries
 8. Write a query to display top 10 movies by rating in descending order.
 9. Write a query to display top movies from 10th position to 20 in descending order.
 10. Write a query to display movies whose runtime is between 30-60 minutes.
+11. Write a query to display movies whose runtime is greater the 30 and genres is either Comedy or Horror and language is english.
