@@ -26,4 +26,5 @@ Options
 5.  Write a query to find the restaurants that do not prepare any cuisine of 'American' and their grade score more than 70 and lattitude less than -65.754168.
 6.  Write a query to find the restaurant Id, name, borough and cuisine for those restaurants which belong to the borough Staten Island or Queens or Bronxor Brooklyn.
 7.  Write a query to find the restaurant Id, name, borough and cuisine for those restaurants which achieved a score which is not more than 10.
-8.  Write a MongoDB query to know whether all the addresses contains the street or not.
+8.  Write a query to know whether all the addresses contains the street or not.
+9.  Write a query to find grade A bakeries with score greater than 4.
