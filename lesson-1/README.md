@@ -19,7 +19,7 @@ C:\> "C:\Program Files\MongoDB\Server\4.2\bin\mongo.exe"
 C:\> mongo
 ```
 
-Note: This will connect using the default port `27017`. Use `-p` for specifying a different port.
+Note: This will connect using the default port `27017`. Use `--port` for specifying a different port.
 
 You should get something similar to this:
 
