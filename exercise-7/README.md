@@ -7,10 +7,10 @@ Switch to `restraunts` collection
 The output should be as follows
 
 ```
-{ "_id" : "Ponche Taqueria", "count" : 3 }
-{ "_id" : "Place To Beach Cantina", "count" : 1 }
-{ "_id" : "Homecoming", "count" : 3 }
-{ "_id" : "Fordham Pizza & Pasta", "count" : 3 }
+{ "_id" : "Ponche Taqueria",grade:"A", "count" : 3 }
+{ "_id" : "Place To Beach Cantina", grade:"A","count" : 1 }
+{ "_id" : "Homecoming", grade:"A","count" : 3 }
+{ "_id" : "Fordham Pizza & Pasta",grade:"A", "count" : 3 }
 
 ```
 
