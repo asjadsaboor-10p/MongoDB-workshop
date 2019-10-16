@@ -21,3 +21,5 @@
 - [Exercise 8 - Indexes](/exercise-8)
 - [Exercise 9 - Geospatial queries](/exercise-9)
 
+
+[Mongodb Cheatsheet](https://gist.github.com/aponxi/4380516)
